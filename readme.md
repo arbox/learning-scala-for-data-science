@@ -9,7 +9,7 @@
 
 ## Online Courses
 
--
+- [Scala 101](https://cognitiveclass.ai/courses/introduction-to-scala/) - introductory course by Lightbend.
 
 ## License
 

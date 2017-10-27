@@ -11,6 +11,11 @@
 
 - [Scala 101](https://cognitiveclass.ai/courses/introduction-to-scala/) - introductory course by Lightbend.
 
+## Related Resources
+
+- [Awesome Spark](https://github.com/awesome-spark/awesome-spark)
+- [Awesome Scala](https://github.com/lauris/awesome-scala)
+
 ## License
 
 [![Creative Commons Zero 1.0](http://mirrors.creativecommons.org/presskit/buttons/80x15/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/) `Data Science: Scala and Spark for Brave and Impatient` by [Andrei Beliankou](https://github.com/arbox) and

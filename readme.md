@@ -1,2 +1,3 @@
-# learning-scala-for-data-science
-Data Science: Scala for brave and impatient
+# Data Science: Scala and Spark for Brave and Impatient
+
+> Learning Scala for Big Data Analytics with Spark.

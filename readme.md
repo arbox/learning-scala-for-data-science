@@ -11,6 +11,8 @@
 
 - [Scala 101](https://cognitiveclass.ai/courses/introduction-to-scala/) - introductory course by Lightbend.
 
+- [Analyze Big Data with Hadoop](https://aws.amazon.com/getting-started/projects/analyze-big-data/) - Amazon EMR Tutorial: Create a Hadoop cluster and run a Hive script to process log data.
+
 ## Related Resources
 
 - [Awesome Spark](https://github.com/awesome-spark/awesome-spark)

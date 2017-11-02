@@ -10,7 +10,8 @@
 ## Online Courses
 
 - [Scala 101](https://cognitiveclass.ai/courses/introduction-to-scala/) - introductory course by Lightbend.
-
+- [Scala Tutorial](https://www.scala-exercises.org/scala_tutorial) - Scala Tutorial on the basics of the language.
+- [STD LIB](https://www.scala-exercises.org/std_lib) - Tutorial on the Scala Standard Library.
 - [Analyze Big Data with Hadoop](https://aws.amazon.com/getting-started/projects/analyze-big-data/) - Amazon EMR Tutorial: Create a Hadoop cluster and run a Hive script to process log data.
 
 ## Related Resources

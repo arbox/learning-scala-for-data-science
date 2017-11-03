@@ -1,4 +1,4 @@
-# Data Science: Scala and Spark for Brave and Impatient
+# Data Science: Scala, Spark and AWS for Brave and Impatient
 
 > Learning Scala for Big Data Analytics with Spark.
 
